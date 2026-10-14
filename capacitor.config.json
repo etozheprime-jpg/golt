@@ -1,0 +1,7 @@
+{
+  "appId": "app.golt.simulator",
+  "appName": "GOLT",
+  "webDir": "dist",
+  "android": { "allowMixedContent": false },
+  "server": { "androidScheme": "https" }
+}
